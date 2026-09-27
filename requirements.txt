@@ -1,0 +1,7 @@
+﻿polars==1.44.2
+numpy==2.5.3
+scipy==1.18.1
+rapidfuzz==3.14.6
+lightgbm==4.7.0
+jupyter==1.1.1
+ipykernel==7.3.0
